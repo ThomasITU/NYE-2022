@@ -19,11 +19,13 @@ best. This you can do the following ways:
 
 Make sure your theme group has completed the following before Friday:
 
-- [ ] Make a playlist. To show that at your party, you listen to the best music.
+- [x] Make a [playlist](https://open.spotify.com/playlist/55pa753eOf2uYWyY20tEXJ?si=-oFH255hTPObnnjEqW_XWg&pt=06dc51deb2f4d2fa7a2810b918cfa415). To show that at your party, you listen to the best music.
 - [ ] Make and dress up the Mascot to keep with you during the entire week. Materials for
 decorating the Mascot can be found in chill zone on 1st floor.
 Take group pictures including the Mascot, preferably dressed up
-- [ ] Make the playlist
+- [ ] Make the [playlist](https://open.spotify.com/playlist/55pa753eOf2uYWyY20tEXJ?si=-oFH255hTPObnnjEqW_XWg&pt=06dc51deb2f4d2fa7a2810b918cfa415
+) and add ~40 songs 
+
 - [ ] make a slide show of the photos taken throughout the week with the mascot.
 Friday activities
 Before the party, the theme groups show what they have created during the week. E.g.
