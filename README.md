@@ -17,6 +17,23 @@ group):
 Throughout the week you have to convince everyone else that your party theme is the
 best. This you can do the following ways:
 
+Make sure your theme group has completed the following before Friday:
+Make and dress up the Mascot to keep with you during the entire week. Materials for
+decorating the Mascot can be found in chill zone on 1st floor.
+Take group pictures including the Mascot, preferably dressed up
+Make the playlist
+
+The theme groups work on the challenges when they have spare time or feel like it. This
+is where tutor/buddy motivation is extra important! Make sure to remind your theme
+group throughout the week.
+
+Friday activities
+Before the party, the theme groups show what they have created during the week. E.g.,
+make a slide show of the photos taken throughout the week with the mascot.
+Tutors/Buddies, it is your responsibility to present it to your Freshers.
+Mascots and group pictures are shown
+Music bingo is played from the playlists
+
 Take pictures with the Mascot!
 ... to show that your party is the funniest and the best. Complete as many of the following
 photo challenges as possible. You can also come up with your own ideas! Make sure that
