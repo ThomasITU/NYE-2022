@@ -1,13 +1,15 @@
 # NYE-2022
-Keep track of New Year's Eve week activities
+Keep track of New Year's Eve week activities.
 
-[Group generator by Faurby](https://github.com/Faurby/GroupGenerator)
+## Freshers weekend time schedule from [Teams](https://ituniversity.sharepoint.com/:x:/r/sites/BScStudyStart2022-TutorsBuddies/Shared%20Documents/Freshers%C2%B4%20Weekend/Freshers%20Weekend%20Theme%20group%20overview.xlsx?d=w178e78f560a04e81922367ddebff9669&csf=1&web=1&e=EBid58)
+![image](https://user-images.githubusercontent.com/75098556/188333465-96ae3cf4-b785-4e0f-b95d-5874175d862a.png)
+
 
 ## Monday
-- [x] Introduction name game of all the freshers and tutors
-- [x] Introduce how they can contact you during the week
+- [x] Introduction name game of all the freshers and tutors.
+- [x] Introduce how they can contact you during the week.
 - [x] Introduce comfort groups and create them (3-4).
-- [x] Make a battle cry (kampråb).
+- [x] Make a battle cry (kampråb). - *"3 - 2 - 1, Happy new year"* - While tossing St(eve) into the air.
 
 
 ## Weekly
@@ -73,3 +75,6 @@ It is optional how much time you want to spend on the activities, but you should
 activities as an opportunity for you to work together and develop a stronger bond within
 your theme group. Whenever you have some spare time, you are free to work on the
 activities.
+
+## Misc.
+[Group generator by Faurby](https://github.com/Faurby/GroupGenerator)
