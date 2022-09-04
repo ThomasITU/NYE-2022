@@ -4,10 +4,10 @@ Keep track of New Year's Eve week activities
 [Group generator by Faurby](https://github.com/Faurby/GroupGenerator)
 
 ## Monday
-- [ ] Introduction name game of all the freshers and tutors
-- [ ] Introduce how they can contact you during the week
-- [ ] Introduce comfort groups and create them (3-4).
-- [ ] Make a battle cry (kampråb).
+- [x] Introduction name game of all the freshers and tutors
+- [x] Introduce how they can contact you during the week
+- [x] Introduce comfort groups and create them (3-4).
+- [x] Make a battle cry (kampråb).
 
 
 ## Weekly
@@ -20,7 +20,7 @@ best. This you can do the following ways:
 Make sure your theme group has completed the following before Friday:
 
 - [x] Make a [playlist](https://open.spotify.com/playlist/55pa753eOf2uYWyY20tEXJ?si=-oFH255hTPObnnjEqW_XWg&pt=06dc51deb2f4d2fa7a2810b918cfa415). To show that at your party, you listen to the best music.
-- [ ] Make and dress up the Mascot to keep with you during the entire week. Materials for
+- [x] Make and dress up the Mascot to keep with you during the entire week. Materials for
 decorating the Mascot can be found in chill zone on 1st floor.
 Take group pictures including the Mascot, preferably dressed up
 - [ ] Make the [playlist](https://open.spotify.com/playlist/55pa753eOf2uYWyY20tEXJ?si=-oFH255hTPObnnjEqW_XWg&pt=06dc51deb2f4d2fa7a2810b918cfa415
@@ -47,23 +47,23 @@ photo challenges as possible. You can also come up with your own ideas! Make sur
 all people in each photo have consented to be in a photo.
 
 - [ ] Mascot being a tourist
-- [ ] Mascot doing sports
-- [ ] Mascot sleeping
+- [x] Mascot doing sports
+- [x] Mascot sleeping
 - [ ] Mascot as close to the stars as possible
 - [ ] Mascot listening to music
 - [ ] Mascot meeting a famout person
 - [ ] Mascot being tired
-- [ ] Mascot at a party
+- [x] Mascot at a party
 - [ ] Mascot in Analog
-- [ ] Mascot in ScrollBar
-- [ ] Mascot playing a game
-- [ ] Mascot socializing
-- [ ] Mascot exploring water
-- [ ] Mascot trying something new
-- [ ] Mascot making mascot friends
+- [x] Mascot in ScrollBar
+- [x] Mascot playing a game
+- [x] Mascot socializing
+- [x] Mascot exploring water
+- [x] Mascot trying something new
+- [x] Mascot making mascot friends
 - [ ] Mascot recreating an iconic moment in a video game or movie
 - [ ] Mascot in its comfy home
-- [ ] Make and dress up your mascot A manifestation of your theme group’s bond: the better the bond, the better the
+- [x] Make and dress up your mascot A manifestation of your theme group’s bond: the better the bond, the better the
 mascot, and vice versa. 
 
 Your mascot must be carried with you all week and be included in
